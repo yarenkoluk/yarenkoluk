@@ -1,16 +1,46 @@
-## Hi there 👋
+## Hi I'm Yaren :) 
 
-<!--
-**yarenkoluk/yarenkoluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--## Hi 👋 I'm Yaren
 
-Here are some ideas to get you started:
+🎓 Software Engineering student  
+🐍 Python learner (building projects step by step)  
+📍 Interested in software development, productivity, and self-improvement  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m currently focusing on strengthening my programming fundamentals by
+working on small but meaningful projects.  
+My goal is to become a reliable and skilled software developer by learning through practice.
+
+---
+
+### 🔧 Technologies & Skills
+- Python
+- Basic Algorithms
+- Functions & Loops
+- File Operations
+- Problem Solving
+
+---
+
+### 📂 Projects
+- 📦 **Quote Box**  
+  A Python project that stores and displays quotes using file operations.
+
+- 🐍 **Snake Game**  
+  A classic snake game built with Python to practice logic and game loops.
+
+- 🧠 **Python Basics**  
+  Practice repository for fundamentals such as loops, conditions, and functions.
+
+---
+
+### 🌱 Currently Learning
+- Object-Oriented Programming (OOP)
+- Writing cleaner and more readable code
+- Building small projects from scratch
+
+---
+
+### 📫 Contact
+- Instagram: @yarenkolukk
+
 -->
